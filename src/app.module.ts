@@ -26,4 +26,5 @@ import { JoiValidationSchema } from './config/joi.validation';
     SeedModule,
   ],
 })
+//
 export class AppModule {}
